@@ -1,5 +1,9 @@
-# Financial Risk Analysis for Loan Approval Using Python
+# Financial Risk Analysis for Loan Approval 
 
-## Project Overview
+##  Overview
 
-This project performs **data analysis** to assess financial risk related to loan approvals using Python. The dataset, sourced from [Kaggle’s Financial Risk for Loan Approval](https://www.kaggle.com/datasets/lorenzozoppelletto/financial-risk-for-loan-approval), contains key financial and demographic features of loan applicants. The analysis includes data cleaning, exploration, and feature evaluation to identify patterns and risk factors associated with loan defaults. This project demonstrates how data-driven techniques can support risk assessment and decision-making in financial services.
+This project provides an end-to-end Financial Risk Analysis of loan applications, leveraging Python to evaluate applicant creditworthiness and predict approval probabilities. By processing a dataset of 20,000 loan records, the analysis identifies the primary financial and demographic drivers—such as debt-to-income ratios and annual salary—that determine high-risk profiles versus ideal lending candidates.
+
+The project demonstrates a professional-grade analytical workflow, moving from raw data ingestion to the delivery of data-driven risk insights. It highlights the use of Pandas for complex data cleaning and Seaborn for multivariate statistical visualization, ultimately creating a framework that mimics real-world credit scoring systems used by financial institutions to minimize default rates.
+
+Dataset: [Financial Risk for Loan Approval](https://www.kaggle.com/datasets/lorenzozoppelletto/financial-risk-for-loan-approval)
